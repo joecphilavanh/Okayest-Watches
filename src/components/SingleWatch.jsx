@@ -25,7 +25,7 @@ const SingleWatch = () => {
     },[])
 
     const handleBackClick = () => {
-      navigate('/watches'); // Navigates to AllWatches page
+      navigate('/watches'); 
   };
 
     return(
